@@ -1,3 +1,5 @@
 mychroot
 
 dockerlite/dockerlite
+
+qemu/ubuntu.qcow2
